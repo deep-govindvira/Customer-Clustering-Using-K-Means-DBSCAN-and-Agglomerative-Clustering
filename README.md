@@ -1,7 +1,3 @@
-Below is a detailed, line-by-line explanation of the code:
-
----
-
 ### 1. Importing Libraries
 
 ```python
@@ -361,6 +357,6 @@ print("\n🔍 If noise is present, DBSCAN might be preferable. Otherwise, K-Mean
 ```
 - **Purpose:** Offers a final recommendation by highlighting that while DBSCAN is excellent at handling noise, K-Means is often preferred when the data is clean and has well-separated clusters.
 
----
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/126332769/444201297-7da704cc-9ca1-4f0f-ba8e-19b92d03b3aa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250515T161010Z&X-Amz-Expires=300&X-Amz-Signature=a66ef6422b4019cd03d3ad7188bef86e93b0928591c76179de404e3801061166&X-Amz-SignedHeaders=host)
 
-This comprehensive explanation covers every line and block of code, detailing what each part does and how it contributes to the overall process of data preprocessing, clustering, evaluation, and visualization.
+---
